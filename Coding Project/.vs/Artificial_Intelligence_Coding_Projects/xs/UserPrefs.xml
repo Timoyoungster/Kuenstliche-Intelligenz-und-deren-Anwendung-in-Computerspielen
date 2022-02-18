@@ -1,0 +1,28 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{BB1DFF52-6768-431E-B41C-E238B41F7294}|Default">
+  <MonoDevelop.Ide.ItemProperties.__Neuron PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="_NEAT/Brain.cs">
+    <Files>
+      <File FileName="_NEAT/Brain.cs" Line="102" Column="1" />
+      <File FileName="_NEAT/Game1.cs" />
+      <File FileName="_NEAT/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Artificial_Intelligence_Coding_Projects" expanded="True">
+            <Node name="_Neuron" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Perceptron PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.__NEAT PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NEAT PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

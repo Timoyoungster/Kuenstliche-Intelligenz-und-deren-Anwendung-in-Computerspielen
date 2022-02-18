@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Cat.png","/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/bin/DesktopGL/Content/Cat.xnb","TextureProcessor","Texture2DContent",2336,14485,0.209712
+"/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Cheese.png","/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/bin/DesktopGL/Content/Cheese.xnb","TextureProcessor","Texture2DContent",3282,14485,0.006361
+"/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Font.spritefont","/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/bin/DesktopGL/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21538,0.149378
+"/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Gold.png","/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/bin/DesktopGL/Content/Gold.xnb","TextureProcessor","Texture2DContent",2118,14009,0.001647
+"/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Meteorite.png","/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/bin/DesktopGL/Content/Meteorite.xnb","TextureProcessor","Texture2DContent",2054,14009,0.002341
+"/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Mouse.png","/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/bin/DesktopGL/Content/Mouse.xnb","TextureProcessor","Texture2DContent",1898,18005,0.001746
+"/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Spaceship.png","/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/bin/DesktopGL/Content/Spaceship.xnb","TextureProcessor","Texture2DContent",3071,20005,0.001639

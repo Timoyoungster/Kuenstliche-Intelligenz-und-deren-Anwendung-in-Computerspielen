@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1DC23DD9-FD8C-41A8-AE64-1AE39A65A388}|Default">
+  <MonoDevelop.Ide.ItemProperties.NEAT__Project PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Test/Brain.cs">
+    <Files>
+      <File FileName="Test/Program.cs" Line="1" Column="1" />
+      <File FileName="Test/Game.cs" />
+      <File FileName="Test/NEAT.cs" />
+      <File FileName="Test/Brain.cs" Line="10" Column="29" />
+      <File FileName="Test/Node.cs" />
+      <File FileName="Test/Connection.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NEAT_Project" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

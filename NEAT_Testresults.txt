@@ -1,0 +1,12 @@
+23.11.2021
+Gen 10: 40; manche Genome reagieren auf die Meteoriten bzw. flüchten nach rechts
+Gen 30: 45; erstes beobachtetes Auftreten der rückwärts fahrenden Genome, Reaktionen noch sehr falsch (Ausweichen entweder nicht vorhanden oder nicht erfolgreich)
+Gen 40: 51; Rückwärts fahren beginnt zu überwiegen, manche Genome entwickeln eine gewisse Zielstrebigkeit in Richtung der goldenen Meteoriten, manche zeigen auch Anzeichen von Verbesserung der Ausweichfähigkeit
+Gen 51: 51; keine markanten Verbesserungen
+bis Gen 181: 51; eher Verschlechterung, reaktionslos, kreisende Genome sehr häufig, dennoch wurden die besseren nicht aussortiert
+Gen 191: 63; Reaktion der Genome wieder besser, leider hatten beobachtete Kreisler auch etwas Glück
+Gen 251: 83; reagierende Genome werden besser
+Gen 261: 88; das Fehlen der Sicht der Wände wird oft zum Verhängnis für sonst gute Genome
+Gen 341: 88; häufigeres Auftreten von "epileptischen Anfällen"
+Gen 383: 88; Genome sind nun mehrere nicht schlecht im Ausweichen aber kommen oft in auswegslose Situationen
+bis Gen 483: 88; keine merklichen Verbesserungen mehr

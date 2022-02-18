@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "_NEAT": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
