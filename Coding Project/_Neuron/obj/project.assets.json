@@ -179,11 +179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/timoyoungster/GitHub/VWA/Coding Project/_Perceptron/_Neuron.csproj",
+      "projectUniqueName": "/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/_Neuron.csproj",
       "projectName": "_Neuron",
-      "projectPath": "/Users/timoyoungster/GitHub/VWA/Coding Project/_Perceptron/_Neuron.csproj",
+      "projectPath": "/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/_Neuron.csproj",
       "packagesPath": "/Users/timoyoungster/.nuget/packages/",
-      "outputPath": "/Users/timoyoungster/GitHub/VWA/Coding Project/_Perceptron/obj/",
+      "outputPath": "/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/timoyoungster/.config/NuGet/NuGet.Config"

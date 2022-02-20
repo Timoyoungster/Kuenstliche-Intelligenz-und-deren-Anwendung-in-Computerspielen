@@ -4,13 +4,13 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Cat.png</File>
-    <File>/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Cheese.png</File>
-    <File>/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Font.spritefont</File>
-    <File>/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Gold.png</File>
-    <File>/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Meteorite.png</File>
-    <File>/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Mouse.png</File>
-    <File>/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/Content/Spaceship.png</File>
+    <File>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/Content/Cat.png</File>
+    <File>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/Content/Cheese.png</File>
+    <File>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/Content/Font.spritefont</File>
+    <File>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/Content/Gold.png</File>
+    <File>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/Content/Meteorite.png</File>
+    <File>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/Content/Mouse.png</File>
+    <File>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/Content/Spaceship.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

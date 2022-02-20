@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>/Users/timoyoungster/GitHub/VWA/Coding Project/_Neuron/Content/Knight.png</SourceFile>
-  <SourceTime>2022-02-02T01:08:01.4054302+01:00</SourceTime>
-  <DestFile>/Users/timoyoungster/GitHub/VWA/Coding Project/_Neuron/Content/bin/DesktopGL/Content/Knight.xnb</DestFile>
-  <DestTime>2022-02-17T12:04:14.5010626+01:00</DestTime>
+  <SourceFile>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/Content/Knight.png</SourceFile>
+  <SourceTime>2022-02-02T01:08:01.4054301+01:00</SourceTime>
+  <DestFile>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/Content/bin/DesktopGL/Content/Knight.xnb</DestFile>
+  <DestTime>2022-02-20T17:22:03.8264405+01:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T18:17:54+02:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

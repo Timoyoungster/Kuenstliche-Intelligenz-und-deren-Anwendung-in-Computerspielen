@@ -4,10 +4,10 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>/Users/timoyoungster/GitHub/VWA/Coding Project/_Neuron/Content/Bishop.png</File>
-    <File>/Users/timoyoungster/GitHub/VWA/Coding Project/_Neuron/Content/File.spritefont</File>
-    <File>/Users/timoyoungster/GitHub/VWA/Coding Project/_Neuron/Content/Knight.png</File>
-    <File>/Users/timoyoungster/GitHub/VWA/Coding Project/_Neuron/Content/Pawn.png</File>
+    <File>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/Content/Bishop.png</File>
+    <File>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/Content/File.spritefont</File>
+    <File>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/Content/Knight.png</File>
+    <File>/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/Content/Pawn.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

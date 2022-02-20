@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/_NEAT.csproj": {}
+    "/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/_NEAT.csproj": {}
   },
   "projects": {
-    "/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/_NEAT.csproj": {
+    "/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/_NEAT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/_NEAT.csproj",
+        "projectUniqueName": "/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/_NEAT.csproj",
         "projectName": "_NEAT",
-        "projectPath": "/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/_NEAT.csproj",
+        "projectPath": "/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/_NEAT.csproj",
         "packagesPath": "/Users/timoyoungster/.nuget/packages/",
-        "outputPath": "/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/obj/",
+        "outputPath": "/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/timoyoungster/.config/NuGet/NuGet.Config"

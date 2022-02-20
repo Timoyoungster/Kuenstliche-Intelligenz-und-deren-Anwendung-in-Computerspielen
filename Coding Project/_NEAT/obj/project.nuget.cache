@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZqDrzw7pXzXlnp4fGAWAXIFl18/XPferPdzN1i+sxaC4EW442t0DceOGmjpRvqmFDGHfvkT5zZLc29nbg6n+nA==",
+  "dgSpecHash": "qH+6uxjWfMV956fOrHq27o3f0WpbmG2dmEo7W3vGLqopVg70SMLin92NL6uC0Tiw0zqoBasxkDot4Ate6tOsLg==",
   "success": true,
-  "projectFilePath": "/Users/timoyoungster/GitHub/VWA/Coding Project/_NEAT/_NEAT.csproj",
+  "projectFilePath": "/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_NEAT/_NEAT.csproj",
   "expectedPackageFiles": [
     "/Users/timoyoungster/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
     "/Users/timoyoungster/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"

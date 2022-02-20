@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CrAASJqvb51IyDxqsNO+vuP1IkjYZawnntQw/fsYQq8+dPEymkUyAq3xndf19UuINKtfPPhskkRJuyQ5F63EGw==",
+  "dgSpecHash": "XytKyJX9d/WVGKTZTG7ef/rpeaP7nExfcx/kSlLVsskKG++tLDvxsX8EnJO+WT4rJ0Ex6NUL3ZAZ8NNN+xlxeg==",
   "success": true,
-  "projectFilePath": "/Users/timoyoungster/GitHub/VWA/Coding Project/_Perceptron/_Neuron.csproj",
+  "projectFilePath": "/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/_Neuron.csproj",
   "expectedPackageFiles": [
     "/Users/timoyoungster/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
     "/Users/timoyoungster/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
