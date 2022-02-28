@@ -6,13 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "_Perceptron/1.0.0": {
+      "_Neuron/1.0.0": {
         "dependencies": {
           "MonoGame.Content.Builder.Task": "3.8.0.1641",
           "MonoGame.Framework.DesktopGL": "3.8.0.1641"
         },
         "runtime": {
-          "_Perceptron.dll": {}
+          "_Neuron.dll": {}
         }
       },
       "MonoGame.Content.Builder.Task/3.8.0.1641": {},
@@ -69,7 +69,7 @@
     }
   },
   "libraries": {
-    "_Perceptron/1.0.0": {
+    "_Neuron/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

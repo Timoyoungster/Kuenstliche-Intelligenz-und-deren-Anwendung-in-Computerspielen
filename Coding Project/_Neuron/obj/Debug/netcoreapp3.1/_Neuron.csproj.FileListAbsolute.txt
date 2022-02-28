@@ -27,13 +27,13 @@
 /Users/timoyoungster/GitHub/VWA/Coding Project/_Neuron/obj/Debug/netcoreapp3.1/_Neuron.dll
 /Users/timoyoungster/GitHub/VWA/Coding Project/_Neuron/obj/Debug/netcoreapp3.1/_Neuron.pdb
 /Users/timoyoungster/GitHub/VWA/Coding Project/_Neuron/obj/Debug/netcoreapp3.1/_Neuron.genruntimeconfig.cache
-/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/Content/King.xnb
-/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/Content/Queen.xnb
-/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/Content/Rook.xnb
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/Content/Bishop.xnb
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/Content/Font.xnb
+/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/Content/King.xnb
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/Content/Knight.xnb
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/Content/Pawn.xnb
+/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/Content/Queen.xnb
+/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/Content/Rook.xnb
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/_Neuron.deps.json
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/_Neuron.runtimeconfig.json
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/_Neuron.runtimeconfig.dev.json
@@ -48,7 +48,6 @@
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
-/Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/obj/Debug/netcoreapp3.1/_Neuron.csproj.AssemblyReference.cache
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/obj/Debug/netcoreapp3.1/_Neuron.GeneratedMSBuildEditorConfig.editorconfig
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/obj/Debug/netcoreapp3.1/_Neuron.AssemblyInfoInputs.cache
 /Users/timoyoungster/GitHub/Kuenstliche-Intelligenz-und-deren-Anwendung-in-Computerspielen/Coding Project/_Neuron/obj/Debug/netcoreapp3.1/_Neuron.AssemblyInfo.cs

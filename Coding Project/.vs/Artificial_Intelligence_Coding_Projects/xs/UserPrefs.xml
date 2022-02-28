@@ -1,19 +1,15 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4AD7D260-0DBE-4748-899F-FDE72694EE7E}|Default">
   <MonoDevelop.Ide.ItemProperties.__Neuron PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="_NEAT/Brain.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="_Neuron/Game1.cs">
     <Files>
-      <File FileName="_NEAT/Brain.cs" Line="102" Column="1" />
-      <File FileName="_NEAT/Game1.cs" />
-      <File FileName="_NEAT/Program.cs" />
+      <File FileName="_Neuron/Game1.cs" Line="76" Column="79" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Artificial_Intelligence_Coding_Projects" expanded="True">
-            <Node name="_NEAT" expanded="True">
-              <Node name="Brain.cs" selected="True" />
-            </Node>
-            <Node name="_Neuron" expanded="True" />
+            <Node name="_NEAT" expanded="True" />
+            <Node name="_Neuron" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
